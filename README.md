@@ -57,8 +57,7 @@ Expense Tracker is a simple web application that helps users manage and track th
 - **Backup and Export:**
   - Export expense data for backup or analysis.
 
-- **Offline Mode:**
-  - Implement offline capabilities for users to access the application without an internet connection.
+
 
 ## Technologies Used
 
